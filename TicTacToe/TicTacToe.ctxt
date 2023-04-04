@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment1.params=
+comment1.target=boolean\ nextBoolean()
+comment2.params=
+comment2.target=int\ nextInt()
+comment3.params=n
+comment3.target=int\ nextInt(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Booking
+comment1.params=
+comment1.target=Booking()
+comment2.params=
+comment2.target=java.lang.String\ getCustName()
+comment3.params=
+comment3.target=double\ getTime()
+comment4.params=
+comment4.target=int\ getCustArrCount()
+comment5.params=custArrCount
+comment5.target=void\ setCustArrCount(int)
+comment6.params=custName\ time
+comment6.target=Booking(java.lang.String,\ double)
+numComments=7
