@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Quick_Sort
-comment1.params=ob
-comment1.target=Quick_Sort(java.util.ArrayList)
-comment2.params=ob
-comment2.target=java.util.ArrayList\ Sort(java.util.ArrayList)
-comment3.params=args
-comment3.target=void\ main(java.lang.String[])
-numComments=4
